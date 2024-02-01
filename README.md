@@ -23,7 +23,7 @@ Hay St West of Sussex St has a single line deliniation which means it is legal t
   - The same situation from Druitt to Market St, though with the QVB platforms in between (pending on platform question above)
 - Are no entry signs specific to the side of the road they are on? Eg. if there is a no entry sign on the left side, can I cycle on the right side of a street?
   - Eg. There isn't a no entry sign on the right side when entering George St at Grosvenor St
-
+- Do shared paths end at a light rail crosisng like they do at a road crossing? There is no shared path marking on Quay St south of Hay St.
 # Discussions with police
 - Discussed with 2 male police on bikes Thu 1st at 9:20 at the corner of Hay St & Tumbalong Bvd
 - They were of opinion cycling is legal along all of Hay Sy light rail track _and_ George St as long

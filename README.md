@@ -8,6 +8,8 @@ Tramways are designated by a `Tram only` sign which is are the signs used for Ge
 
 Hay St West of Sussex St has a single line deliniation which means it is legal to cycle one, but however has a "No Entry" sign at the western entrance. It is unclear whether this "No Entry" sign applies as bicycles can access the light rail corridor from the side of thr track using the traffic lights (with bicycle lantern) at Darling Drive.
 
+Shared paths only end at an end shared path sign (or road crossing) and dont require a blue line, meaning the shared paths leading to Darling Park 'flood fill' all footpaths down to Hay St (up to the zebra crossing at Harbour St).
+(this also has the effect of several footparhs in CoS being legal for bicycles due to no end shared path sign present.
 
 ## Clarifications I need
 - Does the no entry sign at the western entrance of Hay St (Darling Drive) override the single white line marking Hay St as a tram lane?

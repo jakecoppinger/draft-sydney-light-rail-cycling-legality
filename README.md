@@ -9,7 +9,7 @@ Tramways are designated by a `Tram only` sign which is are the signs used for Ge
 Hay St West of Sussex St has a single line deliniation which means it is legal to cycle one, but however has a "No Entry" sign at the western entrance. It is unclear whether this "No Entry" sign applies as bicycles can access the light rail corridor from the side of thr track using the traffic lights (with bicycle lantern) at Darling Drive.
 
 Shared paths only end at an end shared path sign (or road crossing) and dont require a blue line, meaning the shared paths leading to Darling Park 'flood fill' all footpaths down to Hay St (up to the zebra crossing at Harbour St).
-(this also has the effect of several footparhs in CoS being legal for bicycles due to no end shared path sign present.
+(this also has the effect of several footparhs in CoS being legal for bicycles due to no end shared path sign present.)
 
 ## Clarifications I need
 - Does the no entry sign at the western entrance of Hay St (Darling Drive) override the single white line marking Hay St as a tram lane?
@@ -25,8 +25,7 @@ Shared paths only end at an end shared path sign (or road crossing) and dont req
   - The same situation from Druitt to Market St, though with the QVB platforms in between (pending on platform question above)
 - Are no entry signs specific to the side of the road they are on? Eg. if there is a no entry sign on the left side, can I cycle on the right side of a street?
   - Eg. There isn't a no entry sign on the right side when entering George St at Grosvenor St
-- Do shared paths end at a light rail crosisng like they do at a road crossing? There is no shared path marking on Quay St south of Hay St.
-  - If not, I think this would technically mean the north King St sidewalk between George & York is technically a shared path, due to no "end shared path" sign at King & Pitt westbound
+- Do shared paths end at a light rail crossing like they do at a road crossing? There is no shared path marking on Quay St south of Hay St (just north of the carpark entrance) though it's heavily used.
 
 # Discussions with police
 - Discussed with 2 male police on bikes Thu 1st at 9:20 at the corner of Hay St & Tumbalong Bvd

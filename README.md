@@ -19,8 +19,9 @@ Shared paths only end at an end shared path sign (or road crossing) and dont req
   - Photo at https://www.mapillary.com/app/user/jakecopp?lat=-33.880172222222015&lng=151.20716666667&z=16.92996708234354&pKey=670124078124416&focus=photo&x=0.510488795519389&y=0.4588200156144901&zoom=0
 - Do light rail platforms count as a "a structure (for example, **a dividing strip, pedestrian refuge, traffic island, row of bollards or separation kerb**), whether or not the structure is also being used to indicate a safety zone" which designates the way as a tram _way_
   - If so, bicycles are not allowed to cycle through light rail stations even if the rest of the street is a tram _lane_
-- There isn't any no entry signs at York & George St (northbound). Does this mean it is legal to cycle along George St from York to Barrack St/Martin Place as there isn't a double line marked or any structure next to the track?
+- There isn't any no entry signs at York & George St (northbound) Does this mean it is legal to cycle along George St from York to Barrack St/Martin Place as there isn't a double line marked or any structure next to the track?
   - ...or through to Hunter St/Market St/Grosvenor St if platforms are legal to cycle past depending on above question
+  - I note there are some no Left/Right turns for the adjacent road marked, but if a bicycle isn't coming from this road these can't apply
 - There isn't a no entry sign at Market St & George St (northbound), however there is a no entry sign at King St & George St (southbound). Does this mean it is only legal to cycle northbound between Market & King St along Geoge St?
   - The same situation from Druitt to Market St, though with the QVB platforms in between (pending on platform question above)
 - Are no entry signs specific to the side of the road they are on? Eg. if there is a no entry sign on the left side, can I cycle on the right side of a street?

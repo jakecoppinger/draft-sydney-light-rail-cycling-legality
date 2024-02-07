@@ -33,7 +33,7 @@ Shared paths only end at an end shared path sign (or road crossing) and dont req
 - They were of opinion cycling is legal along all of Hay Sy light rail track _and_ George St as long
   as cyclists stayed between the rails and did not slow down a tram
 
-- Discussed with police 2 years ago (see record at https://www.openstreetmap.org/changeset/105807360).
+- Discussed with police on the ground Friday 4th June 2021 (2 years ago) (see record at https://www.openstreetmap.org/changeset/105807360).
   Following quotes are conversation with another OpenStreetMap contributor above:
   > Had a chat to cop on the ground, bicycles are currently allowed where no curb between track & street (north of Town Hall). 
   > The cop said bicycles are allowed when no curb between light rail track and the "pedestrian street". North of Druitt St there is no barrier so I believe it is legal. I definitely find it confusing.
